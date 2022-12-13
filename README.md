@@ -1,7 +1,8 @@
 <div align="center">
-<img alt="Logo" src="" style="height: 200px;">
 
-# Cultura Nacional: Seu catálago de filmes brasileiros
+<img alt="Logo" src="src/imagens/logo.png" style="height: 300px;">
+
+# **Cultura Nacional:** _Seu catálago de filmes brasileiros!_
 
 <br>
 
@@ -13,6 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="height: 40px;"/>
 
   <br>
+
  </div>
 
 ## Índice
