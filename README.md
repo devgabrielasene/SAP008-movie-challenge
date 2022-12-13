@@ -39,7 +39,7 @@ será uma das poucas formas (ou a única) de ver filmes.
 
 ## 2. Resumo do projeto
 
-Dado contexto, a ideia do Cultura Nacional é valorizar a riqueza do nosso cinema nacional trazendo um catálago farto de filmes brasileiros, majoritariamente produzidos com baixo orçamento e que ainda com a condição precária no pouco investimento, possuem uma incrível narrativa e produção de grande impacto. Além do catálago de recomendação que traz a sinopse do filme, a página também cumpre com a missão de informar os usuários sobre os criadores, possíveis premiações do filme e contexto de produção por meio de uma tela informativa, que pode ser acessada clicando em "Sobre".
+Dado contexto, a ideia do Cultura Nacional é valorizar a riqueza do nosso cinema nacional trazendo um catálago farto de filmes brasileiros, majoritariamente produzidos com baixo orçamento e que ainda com a condição precária no pouco investimento, possuem uma incrível narrativa e produção de grande impacto. Além do catálago de recomendação que traz a sinopse do filme, a página também cumpre com a missão de informar os usuários sobre os criadores, possíveis premiações do filme e contexto de produção por meio de uma tela informativa, que pode ser acessada clicando em "Detalhes".
 
 ## 3. Definição de produto
 
